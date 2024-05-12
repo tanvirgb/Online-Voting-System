@@ -1,7 +1,6 @@
 # Online-Voting-System
 A simple online voting website using HTML, CSS, PHP and MySQL.
 
-
 # How the Website Looks:
 
 ![home-ss](https://github.com/tanvirgb/Online-Voting-System/assets/155874294/4cd19155-af79-4145-8037-08dff7d6c621)
