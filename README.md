@@ -1,4 +1,5 @@
 # Online-Voting-System
+
 A simple online voting website using HTML, CSS, PHP and MySQL.
 
 # How the Website Looks:
